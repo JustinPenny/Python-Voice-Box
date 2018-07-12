@@ -1,4 +1,4 @@
-# My voice box present
+# My voice box present for Tay
 
 import pygame
 import time
